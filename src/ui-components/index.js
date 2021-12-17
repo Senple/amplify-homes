@@ -29,6 +29,7 @@ export { default as ContactUs } from "./ContactUs";
 export { default as SocialB } from "./SocialB";
 export { default as CardE } from "./CardE";
 export { default as FeaturesText2x2 } from "./FeaturesText2x2";
+export { default as CardBCollectiontwo } from "./CardBCollectiontwo";
 export { default as CardF } from "./CardF";
 export { default as CardA } from "./CardA";
 export { default as CardG } from "./CardG";
